@@ -1,5 +1,5 @@
 # Mass-Shootings-Incidence-Analysis-SQL
-Certainly, here's the provided analysis overview formatted for use in a GitHub README file:
+
 
 ---
 
